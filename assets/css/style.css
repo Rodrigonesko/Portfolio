@@ -1,0 +1,52 @@
+
+/* hero-section */
+.profile-pic {
+    width: 300px;
+    height: 400px;
+    border-radius: 50%;
+}
+
+.hero-section {
+    background-color: #fff;
+}
+
+.social-links {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+ul li {
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+    padding-right: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Lista de informações */
+
+.list-group-item{
+    background-color: #212529 !important;
+}
+
+/* Carrosel Portfolio */
+
+.carousel-control-prev {
+    margin-left: 0px;
+}
+
+.carousel-control-next {
+    margin-right: 0px;
+}
+
+.carousel-indicators-margin {
+    margin-bottom: -35px;
+}
+
+#rodape a {
+    color: white;
+}
+
